@@ -1,56 +1,29 @@
-# 🌿 Estudos de Git e GitHub | Generation Brasil — AD05
+## 💻 Desenvolvimento da atividade
 
-## 📌 Sobre o projeto
+Durante a atividade prática de Git e GitHub, utilizei um arquivo Python chamado `Turma.py` para acompanhar o processo de versionamento de código.
 
-Este repositório faz parte das atividades práticas desenvolvidas durante o bootcamp de **Análise de Dados da Generation Brasil — Turma AD05**.
+O arquivo contém três instruções utilizando a função `print()`, responsáveis por exibir mensagens no terminal.
 
-O objetivo é praticar conceitos de Git e GitHub, compreendendo como organizar, registrar e acompanhar alterações realizadas em arquivos de código.
+```python
+print('A turma AD05 é top')
+print('O Git é divertido!')
+print("Atualização Remota!")
+```
 
-A atividade utiliza um arquivo Python como parte do processo de aprendizagem.
+### 🔄 Prática de versionamento
 
-## 🎯 Objetivos de aprendizagem
+A atividade permitiu explorar conceitos fundamentais de controle de versão, como:
 
-- Compreender os conceitos básicos de Git e GitHub.
-- Praticar o controle de versão de arquivos.
-- Entender como funcionam os commits.
-- Conhecer o conceito de branches.
-- Aprender a acompanhar o histórico de alterações.
-- Desenvolver boas práticas de organização de projetos.
+- **Repositório:** local onde os arquivos e seu histórico são armazenados.
+- **Commit:** registro de uma alteração realizada no projeto.
+- **Branch:** ramificação que permite trabalhar com diferentes versões do código.
+- **Repositório remoto:** versão do projeto hospedada no GitHub.
+- **Histórico de alterações:** acompanhamento das modificações realizadas ao longo do desenvolvimento.
 
-## 📂 Estrutura do repositório
+### 📚 O que aprendi
 
-### `Turma.py`
+Com essa atividade, pude compreender melhor a importância do Git e do GitHub na organização de projetos de programação.
 
-Arquivo Python utilizado na atividade prática de versionamento.
+Também pratiquei o acompanhamento de alterações em arquivos, entendendo como o versionamento contribui para a rastreabilidade do código e para o trabalho colaborativo.
 
-O histórico do repositório permite acompanhar as alterações realizadas ao longo dos exercícios.
-
-## 🛠️ Tecnologias e ferramentas
-
-| Tecnologia | Finalidade |
-|---|---|
-| Git | Controle de versão |
-| GitHub | Hospedagem e gerenciamento do repositório |
-| Python | Linguagem do arquivo utilizado na atividade |
-
-## 📚 Aprendizados
-
-A atividade contribui para o desenvolvimento dos meus conhecimentos em versionamento de código, organização de repositórios e acompanhamento de alterações.
-
-Esses conceitos são importantes para o desenvolvimento de projetos individuais e colaborativos na área de Tecnologia e Análise de Dados.
-
-## 🎓 Formação
-
-**Generation Brasil — Bootcamp de Análise de Dados | Turma AD05**
-
-## 👩‍💻 Autora
-
-**Jussara Valença**
-
-🎓 Estudante de Ciência de Dados — UNIVESP
-
-📊 Em desenvolvimento profissional na área de Análise de Dados
-
-🔗 [LinkedIn](https://www.linkedin.com/in/jussaravalenca/)
-
-🔗 [GitHub](https://github.com/JussaraValencaSantos)
+Embora o código Python seja simples, o principal objetivo do exercício foi conhecer e praticar ferramentas utilizadas no desenvolvimento de software e em projetos de Análise de Dados.
